@@ -6,6 +6,7 @@ Food Investigator is a multi-access IT system that uses a database of functional
 Food Investigator system consists of two layers:
 - Data Layer,
 - Business Logic Layer.
+<img width="487" height="275" alt="Image" src="https://github.com/user-attachments/assets/b2b34a31-c800-4590-b269-65320ac337f0" />
 
 ## Technologies
 - Docker,
